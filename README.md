@@ -3,9 +3,9 @@ Cancer_Cell_Detection_In_Blood_Sample
 Pytorch Implementation of U-Net, R2U-Net, Attention U-Net, Attention R2U-Net
 U-Net
 ![alt text](image.png)
- R2U-Net
- ![alt text](image-1.png)
- Attention U-Net
+R2U-Net
+![alt text](image-1.png)
+Attention U-Net
 ![alt text](image-2.png) 
 Attention R2U-Net
 ![alt text](image-3.png)
